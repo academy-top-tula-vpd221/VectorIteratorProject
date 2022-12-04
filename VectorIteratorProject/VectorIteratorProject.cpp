@@ -12,8 +12,16 @@ void ContainerPrint(Iterator<T>* it)
         cout << it->Current() << " ";
 }
 
+class User
+{
+
+};
+
 int main()
 {
+
+    
+
     //srand(time(nullptr));
 
     //Vector<int> v1(10);
