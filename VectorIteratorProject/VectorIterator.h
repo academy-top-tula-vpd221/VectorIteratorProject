@@ -1,6 +1,4 @@
 #pragma once
-#include "Vector.h"
-
 template <class T>
 class Iterator
 {
